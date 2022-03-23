@@ -1,0 +1,20 @@
+body{
+    background-color: greenyellow;
+}
+#score
+{
+    font-size: 50px;
+    float:left;
+    margin-left: 50px;
+}
+#time
+{
+    font-size: 50px;
+    float:right;
+    margin-right: 50px;
+}
+#stbd
+{
+    color:red;
+    font-weight: bold;
+}
